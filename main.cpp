@@ -1,7 +1,7 @@
 /***********************************************************************
-	Author: => Antony Nelson Daudt Alkmim
 	Tic-tac-toe with OpenGL
-    Date: 2014/1
+    Author: => Antony Nelson Daudt Alkmim
+    2014/1
 ***********************************************************************/
 
 #include <stdlib.h>
